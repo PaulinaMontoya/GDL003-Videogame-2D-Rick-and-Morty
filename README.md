@@ -1,23 +1,36 @@
-# Titulo
+# **Morty's Nightmares**
 
-## Preámbulo
-Aquí nos darás un intro sobre tu proyecto, puede ser tanto la problemática que vas a resolver o el objetivo del proyecto. 
+## **Preámbulo**
+Morty's nightmares es un videojuego donde Morty tendrá que cumplir misiones que Rick le obliga hacer. 
 
-## Introducción
-Parecido al preámbulo, solo que nos darás más información sobre el proyecto.
+## **Introducción**
+Este videojuego es el piloto de una serie de mundos. La primera misión se desarrolla en el mundo de los cristales rosas donde necesita recolectar los más que pueda sin ser comido por las ranas mutantes y lograr llegar al portal para escapar de esa dimensión.
 
-## Objetivos de aprendizaje
-¿Qué aprenderás con este proyecto? Si tienes dudas, puedes acercarte a los coaches para aterrizar estos objetivos
+## **Objetivos de aprendizaje**
+El mayor objetivo es comenzar a utilizar Unity, familiarizarme con la interfaz, la lógica de C# y crear animaciones desde la línea del tiempo.  
 
-## Consideraciones Generales
-Las reglas del juego para tu proyecto. Como te vas a organizar, que cosas se pueden utilizar, etc.
+### **¿Qué aprenderás con este proyecto?** 
+* Conocer la interfaz de Unity.
+* Crear animaciones en Unity.
+* Entender la lógica de C#.
+* Aplicar C# en Unity.
 
-## Avances esperados
-Qué esperas lograr con este proyecto según el tiempo establecido.
+### **Consideraciones Generales**
+**1)** Crear el arte de un videojuego en 2D.
 
-## Hacker Edition
-Lo que te gustaría lograr cuando los avances esperados esten listos.
+**2)** Animar los personajes en la línea del tiempo de Unity.
 
-## Uso
-Explica a quienes visiten tu repo como pueden contribuir a tu proyecto. ¿Hay que instalar algo? Describe los pasos para poder correr localmente el proyecto.
+**3)** Escribir en C# las funciones para controlar el personaje.
 
+**4)** Link a repositorio en GitHub con el código fuente.
+
+## **Avances esperados**
+Crear un videojuego 2D en Unity el cual se pueda jugar con el teclado de una computadora.
+
+## **Hacker Edition**
+Exportar el videojuego para poder jugarlo en un dispositivo movil.
+
+## **Uso**
+
+* Unity
+* C#
