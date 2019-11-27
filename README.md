@@ -39,6 +39,6 @@ Exportar el videojuego para poder jugarlo en un dispositivo movil.
 
 * Flecha derecha: camina hacia la derecha
 * Flecha izquierda: camina hacia la izquierda
-* Flcha arriba: brinca
+* Flecha arriba: brinca
 * Doble flecha arriba: brinca más arriba
 * Flecha derecha o izquierda + Shift: camina más rápido
